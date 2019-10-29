@@ -1,4 +1,4 @@
-package rnxmpp.service;
+package com.rnxmpp.service;
 
 import com.facebook.react.bridge.ReadableArray;
 
@@ -34,7 +34,7 @@ import java.util.List;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-import rnxmpp.ssl.UnsafeSSLContext;
+import com.rnxmpp.ssl.UnsafeSSLContext;
 
 
 /**
